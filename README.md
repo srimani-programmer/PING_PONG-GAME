@@ -24,10 +24,6 @@ An attempt to recreate the Complete Ping-Pong Game with Pygame module.
 
 ![](Game_Over.png)
 
-### Game Demo Video
-
-![](DemoVideo.mov)
-
 ## Dependencies
 
 Pygame 1.9.2 (Python 3) or later
