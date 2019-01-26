@@ -1,4 +1,5 @@
-# Ping-Pong-with-Pygame
+# PING PONG GAME WITH PYGAME MODULE
+
 An attempt to receate the Complete Ping-Pong Game with Pygame module.
 
 ### Game Start Window
@@ -27,7 +28,7 @@ An attempt to receate the Complete Ping-Pong Game with Pygame module.
 
 Pygame 1.9.2 (Python 3) or later
 
-## DISCLAIMER:
+### DISCLAIMER:
 
 This project is intended for non-commercial educational purposes only.
 
