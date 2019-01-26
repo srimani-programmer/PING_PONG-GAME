@@ -30,6 +30,5 @@ Pygame 1.9.2 (Python 3) or later
 
 ### DISCLAIMER:
 
-This project is intended for non-commercial educational purposes only.
-
+This project is licensed under GNU General Public License v3.0
 
