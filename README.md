@@ -1,6 +1,6 @@
 # PING PONG GAME WITH PYGAME MODULE
 
-An attempt to receate the Complete Ping-Pong Game with Pygame module.
+An attempt to recreate the Complete Ping-Pong Game with Pygame module.
 
 ### Game Start Window
 
